@@ -1,6 +1,6 @@
 {
     "name": "create-next-app-ts",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "It automatically builds a nextjs, typescript and eslint working environment",
     "bin": {
         "create-next-app-ts": "./bin/generate-app.js"
