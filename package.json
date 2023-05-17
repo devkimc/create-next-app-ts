@@ -1,7 +1,35 @@
 {
     "name": "create-next-app-ts",
-    "version": "0.1.0",
-    "private": true,
+    "version": "0.0.1",
+    "description": "It automatically builds a nextjs, typescript and eslint working environment",
+    "bin": {
+        "create-next-app-ts": "./bin/generate-app.js"
+    },
+    "license": "MIT",
+    "homepage": "https://github.com/vvs-kim/create-next-app-ts",
+    "author": {
+        "name": "Wooseok Kim"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/vvs-kim/create-next-app-ts"
+    },
+    "keywords": [
+        "react",
+        "next",
+        "typescript",
+        "boilerplate",
+        "CRA",
+        "yarn-berry",
+        "zero-install",
+        "prettier",
+        "airbnb",
+        "eslint",
+        "prettier",
+        "styled-components",
+        "https",
+        "ssl"
+    ],
     "scripts": {
         "dev": "node server.js",
         "start": "next start",
